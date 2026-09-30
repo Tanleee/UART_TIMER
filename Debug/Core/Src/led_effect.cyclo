@@ -1,0 +1,8 @@
+../Core/Src/led_effect.c:5:6:led_effect_stop	2
+../Core/Src/led_effect.c:14:6:led_effect	1
+../Core/Src/led_effect.c:19:6:toggle_all_leds	1
+../Core/Src/led_effect.c:26:6:turn_on_a_led	1
+../Core/Src/led_effect.c:33:6:led_effect1	1
+../Core/Src/led_effect.c:39:6:led_effect2	1
+../Core/Src/led_effect.c:50:6:led_effect3	1
+../Core/Src/led_effect.c:56:6:led_effect4	1
